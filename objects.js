@@ -3,5 +3,5 @@ var playlist={
   Halsey:'Graveyard'
 };
 function updatePlaylist(playlist,artistName,songTitle){
-  return(playlist['artistName']='songTitle')
+  playlist['artistName']='songTitle'
 }
